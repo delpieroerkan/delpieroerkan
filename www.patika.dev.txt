@@ -14,7 +14,7 @@ Cevap:
 2,6,16,18,22,27
 
 Big-O (n²)
-
+n2=36
 18 sayısı average case kapsamına girer.
 
 [7,3,5,8,2,9,4,15,6] Dizisi sıralanırken ilk 4 adım:
